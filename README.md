@@ -1,3 +1,4 @@
-![Bamba Diagne GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadiagne&count_private=true)
-![Bamba Diagne GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadiagne&show_icons=true)
+![Bamba Diagne GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadiagne&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
 
