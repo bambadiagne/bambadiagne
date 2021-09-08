@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **diagnekhadimx@gmail.com**
 
-- 📄 Know about my experiences [5 months in Tecklabs now](5 months in Tecklabs now)
-
 - ⚡ Fun fact **Python🐍 drinks Java☕️**
 
 <h3 align="left">Connect with me:</h3>
