@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmadou Bamba Diagne</h1>
 <h3 align="center">A Software Developper in Js and Python,also works in Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bambadiagne&label=Profile%20views&color=0e75b6&style=flat" alt="bambadiagne" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bambadiagne" alt="bambadiagne" /></a> </p>
 
 
-- 🔭 I’m currently working on [SandagaMontreal](https://sandagamontreal.com/)
-
-- 🌱 I’m currently learning **Flutter and Machine Learning**
+- 🌱 I’m currently learning **Flutter and React**
 
 - 👨‍💻 All of my projects are available at [https://bambadiagne.github.io/Project0/](https://bambadiagne.github.io/Project0/)
 
