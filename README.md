@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and React**
 
-- 👨‍💻 All of my projects are available at [https://bambadiagne.github.io/Project0/](https://bambadiagne.github.io/Project0/)
+- 👨‍💻 See my profile [https://ahmadoubambadiagne.tech/](https://ahmadoubambadiagne.tech/)
 
 - 💬 Ask me about **Django,Node,Angular,Python,Devops,Cryptography**
 
