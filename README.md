@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmadou Bamba Diagne</h1>
-<h3 align="center">A Software Developper in Js and Python,also works in Security</h3>
+<h3 align="center">Full-stack Developper | Devops Enthusiast | CTF player</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bambadiagne" alt="bambadiagne" /></a> </p>
 
-
-- 🌱 I’m currently learning **Flutter and React**
 
 - 👨‍💻 See my profile [https://ahmadoubambadiagne.tech/](https://ahmadoubambadiagne.tech/)
 
